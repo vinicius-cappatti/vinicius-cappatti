@@ -1,3 +1,7 @@
 Vinícius Sanches Cappatti
-Osasco, São Paulo, Brasil 📍
-Estudante de Ciências da Computação na Universidade Presbiteriana Mackenzie e ex-aluno da Fundação Bradesco 📖
+
+São Paulo, São Paulo, Brasil 📍
+
+Estudante do 6º semestre de Ciências da Computação na Universidade Presbiteriana Mackenzie 📖
+
+Atualmente, trabalho exercendo a função de Product Owner no Bradesco, gerindo projetos digitais relacionados aos canais por onde clientes PF e PJ realizam investimentos em renda fixa ou fundos.
